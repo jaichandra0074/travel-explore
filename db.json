@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "name": "neduri",
+      "email": "chanduneduri7273@gmail.com",
+      "password": "Chandu@123",
+      "id": "z-UWctgUWOE"
+    }
+  ],
+  "destinations": [
+    {
+      "id": "1",
+      "name": "Goa",
+      "country": "India",
+      "category": "Beach",
+      "budget": "Medium",
+      "image": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2",
+      "description": "Goa is famous for beaches.",
+      "rating": 4.7,
+      "price": 15000
+    },
+    {
+      "id": "2",
+      "name": "Manali",
+      "country": "India",
+      "category": "Hill Station",
+      "budget": "Low",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "description": "Manali is beautiful.",
+      "rating": 4.8,
+      "price": 12000
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
